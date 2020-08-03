@@ -95,6 +95,13 @@
                 "pack": "gnat-community-2019-20190517-arm-elf-darwin-bin",
                 "sha1": "1021f7395042c94e23b1b994c1d67b9d540bcd0b"
             }
+        },
+        "2018": {
+            "native": {
+                "url" : "https://community.download.adacore.com/v1/d2d8300c43a0234455b169b8ffacd14f4af23b5c?filename=gnat-community-2018-20180523-x86_64-darwin-bin.dmg",
+                "pack": "gnat-community-2018-20180523-x86_64-darwin-bin",
+                "sha1": "d2d8300c43a0234455b169b8ffacd14f4af23b5c"
+            }
         }
     }
 }
